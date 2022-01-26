@@ -10,7 +10,7 @@ QNLI的Dataset會提供一句Question及一句Sentence，並要求模型判斷Se
 
 
 -程式碼將會使用BERT-base-uncased來訓練模型
-Training_data:20000筆，Testing_data:2000筆，Validation_data:2000筆。
+-Training_data:20000筆，Testing_data:2000筆，Validation_data:2000筆。
 
 
 -模型效果
