@@ -18,8 +18,8 @@ Training_data:20000筆，Testing_data:2000筆，Validation_data:2000筆。
 
 Accuracy = 0.8752
 
-matthews_corrcoef = 0.7505791330117884
+Matthews_corrcoef = 0.7505791330117884
 
-classification_report
+Classification_report
 
 ![image](https://user-images.githubusercontent.com/88367016/151115826-1d301ce3-e82d-4c3a-98e8-b725fc2e963f.png)
