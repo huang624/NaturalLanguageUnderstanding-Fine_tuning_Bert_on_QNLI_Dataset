@@ -1,6 +1,7 @@
 # QNLI
 
 QNLI的Dataset會提供一句Question及一句Sentence，並要求模型判斷Sentence內是否包含Question的答案
+
 有包含，label = 0；不包含，label = 1
 
 範例如下圖
