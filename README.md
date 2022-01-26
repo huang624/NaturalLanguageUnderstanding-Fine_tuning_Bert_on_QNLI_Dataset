@@ -15,7 +15,7 @@ Training_data:20000筆，Testing_data:2000筆，Validation_data:2000筆。
 
 -模型效果
 
-Accuracy = 0.8752
+Accuracy = 0.875
 
 matthews_corrcoef = 0.7505791330117884
 
