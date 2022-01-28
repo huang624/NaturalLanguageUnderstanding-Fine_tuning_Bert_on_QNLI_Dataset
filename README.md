@@ -55,8 +55,9 @@ Classification_report
 
 # Demo
 
-![qnli_gif1](https://user-images.githubusercontent.com/88367016/151522866-00d60588-0408-4f2f-bb72-fdadfdbb02fc.gif)
+![新分頁 - Google Chrome 2022-01-28 17-25-36](https://user-images.githubusercontent.com/88367016/151549245-7a09ba41-966d-4ea3-b8b1-7745465feb09.gif)
 
-![qnli_gif_2](https://user-images.githubusercontent.com/88367016/151522891-fe43808e-7297-4b69-9be5-c80197b111b0.gif)
+
+
 
 
