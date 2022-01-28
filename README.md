@@ -15,7 +15,7 @@ Training Data
 Validation Data
 ![image](https://user-images.githubusercontent.com/88367016/151514035-27bdd87d-f464-4699-a749-7b757165230a.png)
 
-Test Data
+Test Data (＊Label皆為-1)
 ![image](https://user-images.githubusercontent.com/88367016/151514210-544ad912-5d1d-4e40-a09c-62d56ea25d13.png)
 
 
