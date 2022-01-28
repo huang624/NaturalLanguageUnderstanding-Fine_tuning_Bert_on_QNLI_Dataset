@@ -41,6 +41,7 @@ https://stackoverflow.com/questions/65246703/how-does-max-length-padding-and-tru
 
 **learning_rate=3e-5，batch_size = 8，epochs = 3 **
 
+
 # 模型效果
 
 Accuracy = 0.8752
@@ -50,3 +51,11 @@ Matthews_corrcoef = 0.7505791330117884
 Classification_report
 
 ![image](https://user-images.githubusercontent.com/88367016/151115826-1d301ce3-e82d-4c3a-98e8-b725fc2e963f.png)
+
+
+# Demo!
+[qnli_gif1](https://user-images.githubusercontent.com/88367016/151522720-a7eb3100-9d53-41d9-b10a-7702ce22cd51.gif)
+![qnli_gif_2](https://user-images.githubusercontent.com/88367016/151522757-1e3bd82b-4687-40d3-8470-73e2edca9af7.gif)
+
+
+
