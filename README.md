@@ -54,8 +54,9 @@ Classification_report
 
 
 # Demo!
-[qnli_gif1](https://user-images.githubusercontent.com/88367016/151522720-a7eb3100-9d53-41d9-b10a-7702ce22cd51.gif)
-[qnli_gif_2](https://user-images.githubusercontent.com/88367016/151522757-1e3bd82b-4687-40d3-8470-73e2edca9af7.gif)
 
+![qnli_gif1](https://user-images.githubusercontent.com/88367016/151522866-00d60588-0408-4f2f-bb72-fdadfdbb02fc.gif)
+
+![qnli_gif_2](https://user-images.githubusercontent.com/88367016/151522891-fe43808e-7297-4b69-9be5-c80197b111b0.gif)
 
 
