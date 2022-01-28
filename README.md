@@ -57,7 +57,14 @@ Matthews_corrcoef = 0.7505791330117884
 
 Classification_report
 
-![image](https://user-images.githubusercontent.com/88367016/151115826-1d301ce3-e82d-4c3a-98e8-b725fc2e963f.png)
+
+|              | precision | recall | f1-score | support |
+|--------------|:---------:|-------:|:--------:|--------:|
+| 0            |    0.87   |   0.88 |  0.87    |   1229  |
+| 1            |    0.89   |   0.87 |  0.88    |   1271  |
+| accuracy     |           |        |  0.88    |   2500  |
+| macro avg    |    0.88   |   0.88 |  0.88    |   2500  |
+| weighted avg |    0.88   |   0.88 |  0.88    |   2500  |
 
 Evaluation heatmap
 
