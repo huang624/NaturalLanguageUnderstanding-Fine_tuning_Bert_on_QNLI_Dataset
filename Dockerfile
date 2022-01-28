@@ -3,6 +3,7 @@ FROM nvidia/cuda:11.1-cudnn8-devel-ubuntu20.04
 WORKDIR /app
 EXPOSE 8000
 
+
 # Basic dependencies (python 3.8)
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y \
     curl \
