@@ -22,7 +22,14 @@ QNLI的Dataset會提供一句Question及一句Sentence，並要求模型判斷Se
 ### tokenize <將Question、Sentence 轉換成 token id 、tpye_id 與 attention_mask>
 由於colab GPU使用的限制，將tokenizer的max_length設為256
 
-![image](https://user-images.githubusercontent.com/88367016/151518658-773efaf5-8976-45ca-85ae-77c0648ba5d2.png)
+```
+from transformers import BertTokenizerFast
+tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
+
+train_encodings = tokenizer(train_question, train_sentence, padding='max_length', truncation=True, max_length=256)
+eval_encodings = tokenizer(eval_question, eval_sentence, padding='max_length', truncation=True, max_length=256)
+
+```
 
 
 **max_length 設置參考:**
