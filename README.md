@@ -24,6 +24,7 @@ QNLI的Dataset會提供一句Question及一句Sentence，並要求模型判斷Se
 
 ![image](https://user-images.githubusercontent.com/88367016/151518658-773efaf5-8976-45ca-85ae-77c0648ba5d2.png)
 
+
 **max_length 設置參考:**
 
 https://huggingface.co/docs/transformers/preprocessing
