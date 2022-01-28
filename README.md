@@ -1,6 +1,5 @@
 # Quick Start
-1.
-```git clone https://github.com/huang624/QNLI.git```
+1.```git clone https://github.com/huang624/QNLI.git```
 
 2.執行Model_Traing_BERT_for_QNLI.ipynb 
 
