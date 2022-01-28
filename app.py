@@ -13,6 +13,7 @@ warnings.filterwarnings('ignore')
 warnings.warn('DelftStack')
 warnings.warn('Do not show this message')
 
+
 class QNLIRequest(BaseModel):
     question: constr(max_length=256)
     sentence: constr(max_length=256)
