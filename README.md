@@ -1,4 +1,5 @@
-# Dataset
+# 資料處理
+### Dataset介紹
 
 QNLI的Dataset會提供一句Question及一句Sentence，並要求模型判斷Sentence內是否包含Question的答案。
 
@@ -9,15 +10,25 @@ QNLI的Dataset會提供一句Question及一句Sentence，並要求模型判斷Se
 
 ### 資料型態
 
-Training Data
++ Training Data
 ![image](https://user-images.githubusercontent.com/88367016/151513750-d360efa2-0b22-432d-a646-2bb3c5037a9c.png)
 
-Validation Data
++ Validation Data
 ![image](https://user-images.githubusercontent.com/88367016/151514035-27bdd87d-f464-4699-a749-7b757165230a.png)
 
-Test Data (＊Label皆為-1)
++ Test Data (＊Label皆為-1)
 ![image](https://user-images.githubusercontent.com/88367016/151514210-544ad912-5d1d-4e40-a09c-62d56ea25d13.png)
 
+### tokenize <將Question、Sentence 轉換成 token id 、tpye_id 與 attention_mask>
+由於colab GPU使用的限制，將tokenizer的max_length設為256
+
+![image](https://user-images.githubusercontent.com/88367016/151518658-773efaf5-8976-45ca-85ae-77c0648ba5d2.png)
+
+**max_length 設置參考:**
+
+https://huggingface.co/docs/transformers/preprocessing
+https://blog.csdn.net/qq_33293040/article/details/105439750
+https://stackoverflow.com/questions/65246703/how-does-max-length-padding-and-truncation-arguments-work-in-huggingface-bertt
 
 # 模型訓練
 
