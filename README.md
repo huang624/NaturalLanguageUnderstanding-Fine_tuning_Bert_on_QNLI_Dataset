@@ -55,7 +55,7 @@ Classification_report
 
 # Demo!
 [qnli_gif1](https://user-images.githubusercontent.com/88367016/151522720-a7eb3100-9d53-41d9-b10a-7702ce22cd51.gif)
-![qnli_gif_2](https://user-images.githubusercontent.com/88367016/151522757-1e3bd82b-4687-40d3-8470-73e2edca9af7.gif)
+[qnli_gif_2](https://user-images.githubusercontent.com/88367016/151522757-1e3bd82b-4687-40d3-8470-73e2edca9af7.gif)
 
 
 
