@@ -1,6 +1,5 @@
 const button = document.getElementById("btn-submit");
 const resultBox = document.getElementById("results-div");
-
 const spinner = document.createElement("span");
 spinner.classList.add("spinner-grow");
 spinner.classList.add("spinner-grow-sm");
