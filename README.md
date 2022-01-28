@@ -37,9 +37,9 @@ https://stackoverflow.com/questions/65246703/how-does-max-length-padding-and-tru
 
 由於GPU使用上的限制，此程式將tokenizer的max_length設置為256
 
-**Training_data:20000筆，Testing_data:2000筆，Validation_data:2000筆。**
+** Training_data:20000筆，Testing_data:2000筆，Validation_data:2000筆。 **
 
-**learning_rate=3e-5，batch_size = 8，epochs = 3 **
+** learning_rate=3e-5，batch_size = 8，epochs = 3 **
 
 
 # 模型效果
