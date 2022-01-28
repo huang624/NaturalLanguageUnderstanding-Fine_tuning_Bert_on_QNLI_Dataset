@@ -53,7 +53,7 @@ Classification_report
 ![image](https://user-images.githubusercontent.com/88367016/151115826-1d301ce3-e82d-4c3a-98e8-b725fc2e963f.png)
 
 
-# Demo!
+# Demo
 
 ![qnli_gif1](https://user-images.githubusercontent.com/88367016/151522866-00d60588-0408-4f2f-bb72-fdadfdbb02fc.gif)
 
