@@ -7,6 +7,15 @@ QNLI的Dataset會提供一句Question及一句Sentence，並要求模型判斷Se
 範例如下圖
 ![image](https://user-images.githubusercontent.com/88367016/151115003-7e46cdea-fc1d-4c12-bc1e-283131d2a07d.png)
 
+### 資料型態
+
+Training Data
+![image](https://user-images.githubusercontent.com/88367016/151513750-d360efa2-0b22-432d-a646-2bb3c5037a9c.png)
+Validation Data
+![image](https://user-images.githubusercontent.com/88367016/151514035-27bdd87d-f464-4699-a749-7b757165230a.png)
+Test Data
+![image](https://user-images.githubusercontent.com/88367016/151514210-544ad912-5d1d-4e40-a09c-62d56ea25d13.png)
+
 # 模型訓練
 
 程式碼將會使用BERT-base-uncased來訓練模型
