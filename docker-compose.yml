@@ -1,0 +1,16 @@
+# docker-compose up --detach --build
+version: "3.8"
+
+services:
+  api:
+    build: "."
+    container_name: "QNLI"
+    image: "nchunlplab/QNLI"
+    restart: always
+    ports:
+      - "56128:8000"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
