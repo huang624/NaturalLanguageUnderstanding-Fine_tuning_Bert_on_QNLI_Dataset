@@ -1,3 +1,11 @@
+# Quick Start
+1.
+```git clone https://github.com/huang624/QNLI.git```
+
+2.執行Model_Traing_BERT_for_QNLI.ipynb 
+
+或是使用已訓練完成的模型:https://drive.google.com/drive/folders/1-Im1qgYOoPyj9VvyLBZdgoZ_G1_EJntt?usp=sharing
+
 # 資料處理
 ### Dataset介紹
 
