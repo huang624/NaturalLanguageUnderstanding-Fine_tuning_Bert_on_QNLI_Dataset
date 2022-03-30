@@ -46,9 +46,6 @@ eval_encodings = tokenizer(eval_question, eval_sentence, padding='max_length', t
 **max_length 設置參考:**
 
 https://huggingface.co/docs/transformers/preprocessing
-https://blog.csdn.net/qq_33293040/article/details/105439750
-https://stackoverflow.com/questions/65246703/how-does-max-length-padding-and-truncation-arguments-work-in-huggingface-bertt
-
 # 模型訓練
 
 程式碼將會使用BERT-base-uncased來訓練模型
