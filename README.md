@@ -50,7 +50,7 @@ eval_encodings = tokenizer(eval_question, eval_sentence, padding='max_length', t
 https://huggingface.co/docs/transformers/preprocessing
 # 模型訓練
 
-程式碼將會使用BERT-base-uncased來訓練模型
+程式碼將會使用BERT-base-uncased pre-train model來訓練模型
 
 由於GPU使用上的限制，此程式將tokenizer的max_length設置為256
 
