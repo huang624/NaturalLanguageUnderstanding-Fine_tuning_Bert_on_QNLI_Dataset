@@ -2,7 +2,7 @@
 + fork the repositories
 
   ```
-  git clone https://github.com/huang624/Bert_for_QNLI.git
+  git clone https://github.com/huang624/NLU_Fine-tuning_Bert_on_QNLI_Dataset.git
   ```
 
 + 執行Model_Traing_BERT_for_QNLI.ipynb
