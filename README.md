@@ -7,7 +7,7 @@
 
 + 執行Model_Traing_BERT_for_QNLI.ipynb
 
-  colab here:https://drive.google.com/file/d/1zuxC1WU05Avu3qvRWsjSufhSHeMthQxC/view?usp=sharing
+  colab here:https://colab.research.google.com/drive/1zuxC1WU05Avu3qvRWsjSufhSHeMthQxC
   
   或是使用已訓練完成的模型:https://drive.google.com/drive/folders/1-Im1qgYOoPyj9VvyLBZdgoZ_G1_EJntt?usp=sharing
 
