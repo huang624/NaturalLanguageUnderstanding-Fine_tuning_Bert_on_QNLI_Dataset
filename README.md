@@ -30,7 +30,7 @@ QNLI的Dataset會提供一句Question及一句Sentence，並要求模型判斷Se
 + Test Data (＊Label皆為-1)
 ![image](https://user-images.githubusercontent.com/88367016/151514210-544ad912-5d1d-4e40-a09c-62d56ea25d13.png)
 
-### tokenize <將Question、Sentence 轉換成 token id 、tpye_id 與 attention_mask>
+### tokenize <將Question、Sentence 轉換成 token id 、type_id 與 attention_mask>
 由於colab GPU使用的限制，將tokenizer的max_length設為256
 
 ```Python
