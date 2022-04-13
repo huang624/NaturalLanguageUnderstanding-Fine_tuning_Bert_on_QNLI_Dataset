@@ -1,14 +1,12 @@
 # Quick Start
-+ fork the repositories
-
++ fork the repositories  
   ```
   git clone https://github.com/huang624/NaturalLanguageUnderstanding-Fine_tuning_Bert_on_QNLI_Dataset.git
   ```
 
 + 執行Model_Traing_BERT_for_QNLI.ipynb
 
-  colab here:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huang624/NaturalLanguageUnderstanding-Fine_tuning_Bert_on_QNLI_Dataset/blob/main/Fine_tuning_BERT_on_QNLI.ipynb)
-  
+  colab here:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huang624/NaturalLanguageUnderstanding-Fine_tuning_Bert_on_QNLI_Dataset/blob/main/Fine_tuning_BERT_on_QNLI.ipynb)  
   model here:<https://drive.google.com/drive/folders/1-Xb8JdaMcpZpyhpDVjJd461yXY5fnSJE?usp=sharing>
 
 # 資料處理
@@ -50,12 +48,10 @@ eval_encodings = tokenizer(eval_question, eval_sentence, padding='max_length', t
 https://huggingface.co/docs/transformers/preprocessing
 # 模型訓練
 
-程式碼將會使用BERT-base-uncased pre-train model來訓練模型
-
+程式碼將會使用BERT-base-uncased pre-train model來訓練模型  
 由於GPU使用上的限制，此程式將tokenizer的max_length設置為256
 
-**Training_data:20000筆，Testing_data:2000筆，Validation_data:2000筆。**
-
+**Training_data:20000筆，Testing_data:2000筆，Validation_data:2000筆。**  
 **learning_rate=3e-5，batch_size = 8，epochs = 3**
 
 
