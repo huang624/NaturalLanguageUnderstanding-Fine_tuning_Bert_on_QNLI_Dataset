@@ -1,3 +1,9 @@
+# Demo
+
+![新分頁 - Google Chrome 2022-01-28 17-25-36_1](https://user-images.githubusercontent.com/88367016/151549634-c9339472-8f08-47e7-8d67-192e3bb5d356.gif)
+
+![QNLI Demo - Google Chrome 2022-01-28 17-26-12](https://user-images.githubusercontent.com/88367016/151550076-b9938a33-7e16-47af-ac7b-02a8ed4f4265.gif)
+
 # Quick Start
 + fork the repositories  
   ```
@@ -75,13 +81,6 @@ Classification_report
 Evaluation heatmap
 
 ![image](https://user-images.githubusercontent.com/88367016/151550184-a51e4d4e-4579-4fbf-8ef3-578607346628.png)
-
-
-# Demo
-
-![新分頁 - Google Chrome 2022-01-28 17-25-36_1](https://user-images.githubusercontent.com/88367016/151549634-c9339472-8f08-47e7-8d67-192e3bb5d356.gif)
-
-![QNLI Demo - Google Chrome 2022-01-28 17-26-12](https://user-images.githubusercontent.com/88367016/151550076-b9938a33-7e16-47af-ac7b-02a8ed4f4265.gif)
 
 
 
